@@ -85,3 +85,4 @@ jobs:
 </details>
 
 Random change for 1.1 - Seb
+Random change for 1.2 - Seb
